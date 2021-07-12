@@ -14,3 +14,4 @@ The contours were drawn and if a color with area>300 was present, the BGR value 
 
 Then bounding boxes, labels and corresponding confidence values are drawn on the output image/frame.
 We get a demo output as this one-
+![Demo](https://user-images.githubusercontent.com/47152563/125267382-5dfb2500-e324-11eb-94c0-0c1ffed7f457.mp4)
